@@ -13,13 +13,14 @@ public interface Operation {
      *@Type: Add
      *@param: Add User or Admin to the arrayAdd
      **/
-
-
     boolean CheckAdmin();
-
+    /*
+    *@Type: check manager
+    *@param: check all the administrator
+    */
     void exit(Manager manager);
     /**
-     * @Type:
-     * @param: check all the administrator
+     * @Type: exit
+     * @param: exit the system
      * */
 }
