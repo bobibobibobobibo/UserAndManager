@@ -1,7 +1,9 @@
 package com.xiaohuo.libmanager.services;
 
 import org.junit.jupiter.api.Test;
-
+/*
+ * @Author XU XIAO
+ * */
 public class ActivityImplTest {
     @Test
     void register(){

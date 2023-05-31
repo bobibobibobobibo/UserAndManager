@@ -1,5 +1,7 @@
 package com.xiaohuo.libmanager.services;
-
+/*
+ * @Author XU XIAO
+ * */
 public class UserService extends NormalUser{
 
         protected boolean Borrow;

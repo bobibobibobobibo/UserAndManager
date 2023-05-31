@@ -1,5 +1,7 @@
 package com.xiaohuo.libmanager.services;
-
+/*
+ * @Author XU XIAO
+ * */
 public class NormalUser{
     protected boolean loginStatus;
     protected String name;

@@ -4,6 +4,9 @@ import com.xiaohuo.libmanager.services.Manager;
 
 import java.util.Scanner;
 
+/*
+ * @Author XU XIAO
+ * */
 public class UserController {
     public void menu() {
         Scanner scanner = new Scanner(System.in);
