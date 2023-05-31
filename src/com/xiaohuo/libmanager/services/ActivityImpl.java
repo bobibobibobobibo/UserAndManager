@@ -3,7 +3,9 @@ package com.xiaohuo.libmanager.services;
 import com.xiaohuo.libmanager.dao.UserArray;
 
 public class ActivityImpl implements Activity{
-
+/*
+ * @Author XU XIAO
+ * */
         @Override
         public boolean register(String name, String password){
             NormalUser normalUser = new NormalUser(name,password);
