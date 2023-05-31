@@ -1,5 +1,7 @@
 package com.xiaohuo.libmanager.services;
-
+/*
+ * @Author XU XIAO
+ * */
 public interface Operation {
     public void Delete(String name, String password);
     /**
